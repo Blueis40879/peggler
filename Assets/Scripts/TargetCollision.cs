@@ -8,12 +8,14 @@ public class TargetCollision : MonoBehaviour
 
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        void OnCollisionEnter2D(Collision2D collision)
+            void OnCollisionEnter2D(Collision2D collision)
         {
             Debug.Log("Hit!");
         }
+
+    // Update is called once per frame
+    void Update()
+    {
+
     }
 }
