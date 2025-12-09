@@ -7,3 +7,9 @@ base shootball.cs with collision
 [shootball.cs](https://github.com/Blueis40879/peggler/blob/main/Assets/Scripts/ShootBall.cs)
 
 [TargetCollision.cs](https://github.com/Blueis40879/peggler/blob/main/Assets/Scripts/TargetCollision.cs)
+
+# 2.1
+
+added more targets and bounciness to the ball
+
+![baller](https://github.com/user-attachments/assets/3df73845-c441-4932-8c66-86695948eeca)
