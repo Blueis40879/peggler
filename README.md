@@ -16,3 +16,10 @@ added more targets and bounciness to the ball
 
 # 2.2 Aim, Shoot en Line
 
+added the cannon, new ball sprite, and shooting with cannon
+
+![shoot](https://github.com/user-attachments/assets/7a8d7caa-39c0-4bd3-8800-052e022ea760)
+
+[aim.cs](https://github.com/Blueis40879/peggler/blob/main/Assets/Scripts/Aim.cs)
+
+[Shoot.cs](https://github.com/Blueis40879/peggler/blob/main/Assets/Scripts/Shoot.cs)
