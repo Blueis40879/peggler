@@ -28,6 +28,5 @@ public class ScoreManager : MonoBehaviour
     {
         score = score + amount;
         // debug voor testen
-        Debug.Log("Score: " + score);
     }
 }
