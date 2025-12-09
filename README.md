@@ -14,3 +14,5 @@ added more targets and bounciness to the ball
 
 ![baller](https://github.com/user-attachments/assets/fcac6d9f-23a4-4a1d-b6f8-3d3def553040)
 
+# 2.2 Aim, Shoot en Line
+
