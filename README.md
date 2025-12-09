@@ -23,3 +23,11 @@ added the cannon, new ball sprite, and shooting with cannon
 [aim.cs](https://github.com/Blueis40879/peggler/blob/main/Assets/Scripts/Aim.cs)
 
 [Shoot.cs](https://github.com/Blueis40879/peggler/blob/main/Assets/Scripts/Shoot.cs)
+
+# 3.1
+
+added ScoreManager and hitpoints, it takes 2 hits to destroy a peg
+
+![Recording 2025-12-09 130449](https://github.com/user-attachments/assets/42832279-4ba9-4c95-8f42-8e9822fbdf31)
+
+
