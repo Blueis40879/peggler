@@ -14,3 +14,20 @@ added more targets and bounciness to the ball
 
 ![baller](https://github.com/user-attachments/assets/fcac6d9f-23a4-4a1d-b6f8-3d3def553040)
 
+# 2.2 Aim, Shoot en Line
+
+added the cannon, new ball sprite, and shooting with cannon
+
+![shoot](https://github.com/user-attachments/assets/7a8d7caa-39c0-4bd3-8800-052e022ea760)
+
+[aim.cs](https://github.com/Blueis40879/peggler/blob/main/Assets/Scripts/Aim.cs)
+
+[Shoot.cs](https://github.com/Blueis40879/peggler/blob/main/Assets/Scripts/Shoot.cs)
+
+# 3.1
+
+added ScoreManager and hitpoints, it takes 2 hits to destroy a peg
+
+![Recording 2025-12-09 130449](https://github.com/user-attachments/assets/42832279-4ba9-4c95-8f42-8e9822fbdf31)
+
+
