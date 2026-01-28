@@ -1,9 +1,11 @@
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 public class ComboSystem : MonoBehaviour
 {
     private List<string> bumperTags = new List<string>();   //lijst met geraakte tags
     private int scoreMultiplier = 1;
+    public static event Action<int, int> OnScoreChange;
     private void Start()
     {
         BumperHit.onBumperHit += CheckForCombo;             //luisteren naar action event onBumperHit als game start
@@ -30,6 +32,6 @@ public class ComboSystem : MonoBehaviour
         ScoreManager.Instance.AddScore(bumperValue * scoreMultiplier);
 
                                                             //print score en multiplier in de console
-        Debug.Log($"Score: {ScoreManager.Instance.score} || Multiplier: {scoreMultiplier}X");
+        OnScoreChange?.Invoke(ScoreManager.Instance.score, scoreMultiplier);
     }
 }

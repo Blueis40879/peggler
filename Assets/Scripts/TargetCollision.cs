@@ -9,7 +9,7 @@ public class TargetCollision : MonoBehaviour
     void Start()
     {
         maxhits = 2;
-        pointsperhit = 2;
+        pointsperhit = 0;
     }
 
             void OnCollisionEnter2D(Collision2D collision)
