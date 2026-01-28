@@ -47,3 +47,7 @@ added combo multiplier
 added UI with font and limit to the balls. Changed level design.
 
 ![Recording 2026-01-28 231301](https://github.com/user-attachments/assets/e9f3398a-2b51-428a-96a7-3b966971cb22)
+
+[UIScoreBoard.cs](https://github.com/Blueis40879/peggler/blob/main/Assets/Scripts/UIScoreBoard.cs)
+
+[CountBalls.cs](https://github.com/Blueis40879/peggler/blob/main/Assets/Scripts/CountBalls.cs)
