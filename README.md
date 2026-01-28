@@ -30,9 +30,20 @@ added ScoreManager and hitpoints, it takes 2 hits to destroy a peg
 
 ![Recording 2025-12-09 130449](https://github.com/user-attachments/assets/42832279-4ba9-4c95-8f42-8e9822fbdf31)
 
+[Scoremanager.cs](https://github.com/Blueis40879/peggler/blob/main/Assets/Scripts/ScoreManager.cs)
+
+[Bumperhit.cs](https://github.com/Blueis40879/peggler/blob/main/Assets/Scripts/BumperHit.cs)
+
 # 3.2
 
 added combo multiplier
 
 ![Recording 2025-12-09 152425](https://github.com/user-attachments/assets/be9f5de4-3562-4aab-8844-82771906886d)
 
+[ComboSystem.cs](https://github.com/Blueis40879/peggler/blob/main/Assets/Scripts/ComboSystem.cs)
+
+# 4.1/4.2
+
+added UI with font and limit to the balls. Changed level design.
+
+![Recording 2026-01-28 231301](https://github.com/user-attachments/assets/e9f3398a-2b51-428a-96a7-3b966971cb22)
